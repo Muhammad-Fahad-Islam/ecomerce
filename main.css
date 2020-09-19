@@ -22,6 +22,10 @@ h1,h2,h3,h4,h5,h6{
     box-shadow: -1px -3px 5px -2px rgba(214,214,214,1);
 }
 
+.navbar-brand{
+	color:Blue;
+}
+
 .product{
 	border-radius: 0 0 4px 4px;
 }
